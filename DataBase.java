@@ -9,7 +9,7 @@ import java.net.URL;
 
 public class DataBase{
 
-  static String backendAdress = "https://bagel-app-11c1ad484767.herokuapp.com/";
+  static String backendAdress = "TheBackEndAddress";
   // static String backendAdress = "http://127.0.0.1:5001";
   static Scanner scan;
 
